@@ -16,19 +16,22 @@ Before running the project, make sure you have the following installed:
 To install the `requests` library, run:
 ```bash
 pip install requests
+```
 
 
 How to Run the Project
 Navigate to the project directory:
 
-bash
+```bash
 Copy code
 cd /path/to/Megaverse
+```
 Run the main script:
-
-bash
 Copy code
+
+```bash
 python Main.py
+```
 The script will:
 
 Fetch the goal map from the API.
